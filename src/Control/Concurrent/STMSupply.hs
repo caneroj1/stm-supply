@@ -6,6 +6,7 @@ module Control.Concurrent.STMSupply
 , splitSupply
 ) where
 
+import Control.Applicative
 import qualified Control.Concurrent.Supply as S
 import GHC.Conc
 

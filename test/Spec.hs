@@ -2,6 +2,7 @@
 
 module Main where
 
+import Control.Applicative
 import Control.Concurrent.Async
 import Control.Concurrent.STMSupply
 import Control.Monad
