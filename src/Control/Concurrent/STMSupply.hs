@@ -1,3 +1,13 @@
+{-|
+Module      : Control.Concurrent.STMSupply
+Description : Main module
+Copyright   : (c) Joseph Canero, 2016
+License     : BSD-3
+Maintainer  : jmc41493@gmail.com
+Stability   : experimental
+Portability : POSIX
+-}
+
 module Control.Concurrent.STMSupply
 (
   STMSupply
